@@ -70,7 +70,7 @@ Egg Hunt: Monster Madness involves a hunter on a quest to collect monster eggs s
 ![Credit Scene 2 (Low Score)](assets/screenshots/Credit%202.png)
 
 ## Link to Video Demo
-[Link to Video Demo](https://youtu.be/ObguRPzQ5Lc)
+[Link to Video Demo](https://youtu.be/Dof57AT104o)
 
 ## Acknowledgment
 I would like to thank our instructor, Mr. Wong Ya Ping, for the guidance and support throughout this project. Special thanks to the Itchio Community for providing the free assets. I also appreciate the feedback and suggestions from our classmates.
