@@ -26,7 +26,7 @@ Egg Hunt: Monster Madness involves a hunter on a quest to collect monster eggs s
 2. Navigate to the project directory:
 
    ```sh
-   cd CGD6334-Game-Physics-Project-1\1191103284_GamePhysics_Project1
+   cd CGD6334-Game-Physics-Project-1
    ```
 
 3. Open the project in Visual Studio Code:
